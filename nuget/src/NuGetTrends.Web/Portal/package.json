@@ -27,7 +27,7 @@
     "@types/chart.js": "2.9.32",
     "bulma": "^0.9.3",
     "bulma-start": "^0.0.4",
-    "chart.js": "2.9.4",
+    "chart.js": "3.0.0",
     "font-awesome": "^4.7.0",
     "ngx-toastr": "^14.1.4",
     "rxjs": "^6.6.7",
