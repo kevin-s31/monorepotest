@@ -11,7 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="MessagePack" Version="2.2.85" />
+    <PackageReference Include="MessagePack" Version="2.5.187" />
     <PackageReference Include="NuGet.Client" Version="4.3.0-beta1-2418" />
     <PackageReference Include="RabbitMQ.Client" Version="6.2.2" />
     <PackageReference Include="Hangfire.AspNetCore" Version="1.7.24" />
